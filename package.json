@@ -1,0 +1,28 @@
+{
+  "name": "polymer-project-cred",
+  "version": "1.0.1",
+  "description": "polymer-project-cred by halo",
+  "main": "dapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Budalebah/polymer-project-cred.git"
+  },
+  "keywords": [
+    "project",
+    "cred",
+    "polymer"
+  ],
+  "author": "@budalebah (halo)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Budalebah/polymer-project-cred/issues"
+  },
+  "homepage": "https://github.com/Budalebah/polymer-project-cred#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "polymer-project-cred": "^1.0.1"
+  }
+}
